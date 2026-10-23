@@ -1,15 +1,23 @@
 {
   "name": "wordsmith",
   "displayName": "Wordsmith",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Review contracts against your playbooks, research case law and legislation, draft from your blueprints and file documents into your Wordsmith repositories.",
   "author": {
     "name": "Wordsmith AI",
     "email": "support@wordsmith.ai",
     "url": "https://www.wordsmith.ai"
   },
-  "homepage": "https://docs.wordsmith.ai/mcp",
+  "homepage": "https://docs.wordsmith.ai/connect-ai-apps",
   "repository": "https://github.com/wordsmith-ai/claude-plugin",
   "license": "MIT",
-  "keywords": ["legal", "contracts", "contract-review", "legal-research", "drafting", "redlining"]
+  "keywords": [
+    "legal",
+    "contracts",
+    "contract-review",
+    "legal-research",
+    "drafting",
+    "redlining"
+  ],
+  "privacyPolicyUrl": "https://www.wordsmith.ai/privacy-policy"
 }
