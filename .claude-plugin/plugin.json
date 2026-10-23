@@ -1,7 +1,7 @@
 {
   "name": "wordsmith",
   "displayName": "Wordsmith",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Review contracts against your playbooks, research case law and legislation, draft from your blueprints and file documents into your Wordsmith repositories.",
   "author": {
     "name": "Wordsmith AI",

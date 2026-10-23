@@ -10,7 +10,7 @@ workspace and adds skills for four everyday legal workflows:
 | `draft-from-blueprint` | Drafts a Word or PDF document from one of your blueprints, filling its placeholders from values, source documents or a past conversation |
 | `file-into-repository` | Creates repositories and folders, files documents into them so they are searchable, and searches what is filed |
 
-The plugin adds the Wordsmith MCP server at `https://api.wordsmith.ai/mcp`. Its tools also cover asking
+The plugin adds the Wordsmith MCP server at `https://mcp.wordsmith.ai/mcp`. Its tools also cover asking
 your Wordsmith agents, tasks, reports, sharing and usage. See the [Wordsmith MCP documentation](https://docs.wordsmith.ai/mcp).
 
 ## Requirements
