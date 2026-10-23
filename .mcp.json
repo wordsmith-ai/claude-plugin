@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wordsmith": {
+      "type": "http",
+      "url": "https://api.wordsmith.ai/mcp"
+    }
+  }
+}
