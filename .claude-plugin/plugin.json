@@ -1,7 +1,7 @@
 {
   "name": "wordsmith",
   "displayName": "Wordsmith",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Review contracts against your playbooks, research case law and legislation, draft from your blueprints and file documents into your Wordsmith repositories.",
   "author": {
     "name": "Wordsmith AI",
@@ -19,5 +19,8 @@
     "drafting",
     "redlining"
   ],
-  "privacyPolicyUrl": "https://www.wordsmith.ai/privacy-policy"
+  "privacyPolicyUrl": "https://www.wordsmith.ai/privacy-policy",
+  "documentationUrl": "https://docs.wordsmith.ai/connect-ai-apps",
+  "supportUrl": "https://www.wordsmith.ai/contact",
+  "termsOfServiceUrl": "https://www.wordsmith.ai/terms-of-service"
 }
