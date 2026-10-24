@@ -51,7 +51,7 @@ Read the full [Wordsmith privacy policy](https://www.wordsmith.ai/privacy-policy
 
 ## Support
 
-Email [support@wordsmith.ai](mailto:support@wordsmith.ai).
+Use the [Wordsmith contact form](https://www.wordsmith.ai/contact), or email [support@wordsmith.ai](mailto:support@wordsmith.ai).
 
 ## License
 
